@@ -25,4 +25,4 @@ Step five - we improve the algorithm, set the angular coefficient (pi / 180 degr
 
 
 **VIDEO**
-<a href="<iframe src='//gifs.com/embed/self-driving-car-on-road-q7pmBD' frameborder='0' scrolling='no' width='640px' height='360px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>"><img src="<iframe src='//gifs.com/embed/self-driving-car-on-road-q7pmBD' frameborder='0' scrolling='no' width='640px' height='360px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>" title="Real time detection"/></a>
+<a href="https://j.gifs.com/q7pmBD.gif"><img src="https://j.gifs.com/q7pmBD.gif" title="Real time detection"/></a>
