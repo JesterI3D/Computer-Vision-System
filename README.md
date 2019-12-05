@@ -23,7 +23,7 @@ Step five - we improve the algorithm, set the angular coefficient (pi / 180 degr
 
 ![Formula for lines](https://d321jvp1es5c6w.cloudfront.net/sites/default/files/imce-user-gen/a1m4l8image6.jpg)
 
-![Result](https://vk.com/im?sel=289323800&z=photo289323800_457264718%2Fmail2242356)
+![Result](https://sun9-15.userapi.com/c854428/v854428409/195ff6/tFjgCLEFD3M.jpg)
 
 
 **VIDEO:**
