@@ -24,5 +24,6 @@ Step five - we improve the algorithm, set the angular coefficient (pi / 180 degr
 ![Formula for lines](https://d321jvp1es5c6w.cloudfront.net/sites/default/files/imce-user-gen/a1m4l8image6.jpg)
 
 
-**VIDEO**
+**VIDEO:**
+
 <a href="https://j.gifs.com/q7pmBD.gif"><img src="https://j.gifs.com/q7pmBD.gif" title="Real time detection"/></a>
