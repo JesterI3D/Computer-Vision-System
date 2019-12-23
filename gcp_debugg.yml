@@ -1,0 +1,7 @@
+python \
+    -m googleclouddebugger \
+    --module=[detection] \
+    --version=[v 1.0] \
+    --service_account_json_file='/Users/admin/Downloads/savvy-etching-254922-e6fda8dabd2c.json' \
+    -- \
+    /Computer-Vision-for-Self-Driving-Car/main/lanes.py
