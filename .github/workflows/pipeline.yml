@@ -1,0 +1,28 @@
+# -----Pushing-Pipeline----------
+# 
+# Copyleft by JesterI3D  -2020-
+# 
+# -------------------------------
+
+name: Pipeline-Push-Action
+
+on:
+  push:
+    branches: 
+      - master
+
+jobs:
+  testing:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: start script
+        run: echo "Test OK"
+        
+  deploy:
+     runs-on: ubuntu-latest
+     
+     steps:
+       - name: deploy script
+         run: echo "App has been deployment"
