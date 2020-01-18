@@ -5,4 +5,5 @@ pytest==5.2.1
 pytest-pylint==0.14.1
 python-dateutil==2.8.0
 PyYAML==5.1.2
-cv2==4.1.0
+opencv-python-4.1.2.30
+
