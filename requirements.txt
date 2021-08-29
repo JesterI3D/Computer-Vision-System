@@ -4,6 +4,7 @@ progress==1.5
 pytest==5.2.1
 pytest-pylint==0.14.1
 python-dateutil==2.8.0
-PyYAML==5.1.2
+pyyaml>=5.4
 opencv-contrib-python
+
 
