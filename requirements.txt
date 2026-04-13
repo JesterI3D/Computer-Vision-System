@@ -1,7 +1,7 @@
 numpy==1.17.2
 pip-tools==4.3.0
 progress==1.5
-pytest==5.2.1
+pytest==9.0.3
 pytest-pylint==0.14.1
 python-dateutil==2.8.0
 pyyaml>=5.4
